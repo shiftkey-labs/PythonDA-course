@@ -7,17 +7,13 @@ The course spans four weeks, with one session per week, starting Wednesday, 16 O
 
 ## Course Timeline
 
-**16 Oct - Week 1**: Python Programming Basics
-- Topics: Variables, input/output, conditional statements
+- **16 Oct - Week 1**: Python Programming Basics (Variables, Input/Output, Conditional Statements)
 
-**23 Oct - Week 1**: Python Programming Basics (contd.)
-- Topics: Functions, Loops, Modules, Data Structures
+- **23 Oct - Week 2**: Functions, Loops, Modules, Data Structures in Python
   
-**Oct 30 - Week 3**: Data Analytics & Visualization
-- Introduction to Pandas, NumPy for data manipulation.
+- **Oct 30 - Week 3**: Data Analytics & Visualization - Introduction to Pandas, NumPy for data manipulation
 
-**Nov 06 - Week 4**: Data Analytics & Visualization (contd.)
-- Matplotlib for data visualization and insights.
+- **Nov 06 - Week 4**: Data Analytics & Visualization - Using Matplotlib for data visualization and insights
   
 ## Assessment:
   - An assessment will be released after Week 3.
