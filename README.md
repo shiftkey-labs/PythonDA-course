@@ -29,12 +29,13 @@ To receive a certificate of completion, you must meet the following criteria:
 
 ## Using the Colab/Jupyter Notebooks
 All the hands-on labs are provided as Jupyter notebooks that can be run in Google Colab. Here’s how to use them:
-1. Navigate to the appropriate week folder (e.g., `week_1`) and locate the .ipynb file (e.g., `Week1_Python_Basics.ipynb`).
-2. Open the notebook in Google Colab by following these steps:
+1. Navigate to the appropriate week folder (e.g., `week_1`) to view the presentation and the summary of the week.
+2. Locate the .ipynb file in the home page (e.g., `Week_1_&_2_Basics_of_Python.ipynb`) for the specific content.
+  - Find the `open in colab` button at the top of the notebook
+  - Click that to open the notebook in colab
+3. Open a notebook in Google Colab by following these steps:
   - Go to Google Colab at colab.research.google.com.
   - Click on `File > Open Notebook`.
   - Select the `GitHub` tab and enter your repository's URL.
   - Browse to the notebook file you want to open and click on it.
-3. Run each cell by clicking on the play button next to it.
-
-
+4. Run each cell by clicking on the play button next to it.
