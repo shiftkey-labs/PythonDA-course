@@ -17,7 +17,7 @@ The course runs over four weeks, with one session per week, beginning on Wednesd
 
 - **Assessment**:
   - An assessment will be released after Week 3.
-  - Due date: **12th November**.
+  - Due date: **16th November**.
   - The assessment should take around 2 hours to complete.
   - Grades will be provided by **30th November**.
   - Submit the assessment by the due date to be eligible for the certificate!
