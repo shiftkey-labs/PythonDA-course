@@ -15,12 +15,12 @@ The course runs over four weeks, with one session per week, beginning on Wednesd
 
 - **Nov 06 - Week 4**: Data Analytics & Visualization - Using Matplotlib for data visualization and insights
 
-- **Assessment**:
-  - An assessment will be released after Week 3.
-  - Due date: **12th November**.
-  - The assessment should take around 2 hours to complete.
-  - Grades will be provided by **30th November**.
-  - Submit the assessment by the due date to be eligible for the certificate!
+## Assessment
+- An assessment will be released after Week 3.
+- Due date: **16th November**.
+- The assessment should take around 2 hours to complete.
+- Grades will be provided by **30th November**.
+- Submit the assessment by the due date to be eligible for the certificate!
 
 ## Certificate Eligibility
 To receive a certificate of completion, you must meet the following criteria:
@@ -31,11 +31,11 @@ To receive a certificate of completion, you must meet the following criteria:
 All the hands-on labs are provided as Jupyter notebooks that can be run in Google Colab. Here’s how to use them:
 1. Navigate to the appropriate week folder (e.g., `week_1`) to view the presentation and the summary of the week.
 2. Locate the .ipynb file in the home page (e.g., `Week_1_&_2_Basics_of_Python.ipynb`) for the specific content.
-  - Find the `open in colab` button at the top of the notebook
-  - Click that to open the notebook in colab
+    - Find the `open in colab` button at the top of the notebook
+    - Click that to open the notebook in colab
 3. Open a notebook in Google Colab by following these steps:
-  - Go to Google Colab at colab.research.google.com.
-  - Click on `File > Open Notebook`.
-  - Select the `GitHub` tab and enter your repository's URL.
-  - Browse to the notebook file you want to open and click on it.
+    - Go to Google Colab at colab.research.google.com.
+    - Click on `File > Open Notebook`.
+    - Select the `GitHub` tab and enter your repository's URL.
+    - Browse to the notebook file you want to open and click on it.
 4. Run each cell by clicking on the play button next to it.
